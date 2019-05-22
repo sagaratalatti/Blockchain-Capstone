@@ -38,7 +38,11 @@ Run command in terminal ``truffle test ./test/TestSquareVerifier.js``
 
 - Assets for Sale: https://rinkeby.opensea.io/assets/craveu
 
+![Token Assets](https://github.com/sagaratalatti/Blockchain-Capstone/blob/master/images/OS-sell.png)
+
 - Assets Purchased from another address:
+
+![Tokens Purchased](https://github.com/sagaratalatti/Blockchain-Capstone/blob/master/images/OS-bg.png)
 
 [Ganache]: <https://truffleframework.com/ganache>
 [Truffle]: <https://truffleframework.com/>
