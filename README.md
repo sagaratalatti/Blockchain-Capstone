@@ -3,11 +3,12 @@ Decentralized Real Estate ERC721 Tokens with Zokrates for zkSNARKs on Ethereum.
 
 # Prerequisites
 
-- Ganache - ONE CLICK BLOCKCHAIN.
-- Truffle - SWEET TOOLS FOR SMART CONTRACTS.
-- OpenZeppelin - OpenZeppelin is a library for secure smart contract development
-- Zokrates - A toolbox for zkSNARKs on Ethereum
-- MetaMask - Allows you to run Ethereum dApps right in your browser
+- [Ganache] - ONE CLICK BLOCKCHAIN.
+- [Truffle] - SWEET TOOLS FOR SMART CONTRACTS.
+- [OpenZeppelin] - OpenZeppelin is a library for secure smart contract development
+- [Zokrates] - A toolbox for zkSNARKs on Ethereum
+- [MetaMask] - Allows you to run Ethereum dApps right in your browser
+- [MEW] - To mint tokens directly from your wallet.
 
 # Project Setup
 - Clone or download project and use ``cd`` command in terminal to navigate to project folder.
@@ -39,5 +40,10 @@ Run command in terminal ``truffle test ./test/TestSquareVerifier.js``
 
 - Assets Purchased from another address:
 
-
+[Ganache]: <https://truffleframework.com/ganache>
+[Truffle]: <https://truffleframework.com/>
+[OpenZeppelin]: <https://github.com/OpenZeppelin/openzeppelin-solidity>
+[Zokrates]: <https://github.com/Zokrates/ZoKrates>
+[MetaMask]: <https://metamask.io/>
+[MEW]: <https://www.myetherwallet.com/access-my-wallet>
 
